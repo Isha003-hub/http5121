@@ -14,7 +14,7 @@ These platforms offer extensive materials for learning the fundamentals of HTML 
 
 > *Note:* You can validate your HTML and CSS code using the W3 Markup Validation Service
 
-## HTML Code Example
+### HTML Code Example
 
 Below is a basic example of HTML headings, 
 html
